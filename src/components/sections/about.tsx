@@ -1,5 +1,6 @@
 import Image from 'next/image';
 import { Card, CardContent } from '@/components/ui/card';
+import profileImg from '@/img/profile.png';
 
 const AboutSection = () => {
   return (
@@ -22,7 +23,7 @@ const AboutSection = () => {
           <Card className="overflow-hidden shadow-xl rounded-lg">
             <CardContent className="p-0">
               <Image
-                src="https://placehold.co/500x600.png"
+                src={profileImg}
                 alt="Portrait of the developer"
                 width={500}
                 height={600}
