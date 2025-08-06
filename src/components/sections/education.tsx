@@ -2,18 +2,25 @@ import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from '@/
 
 const educationData = [
   {
-    degree: 'Bachelor of Science in Computer Science',
-    institution: 'State Technology College',
-    period: '2020 - 2024',
-    description: 'Completed a comprehensive curriculum covering fundamental and advanced topics in computer science, including data structures, algorithms, software engineering, and database management. Gained hands-on experience through various projects. Graduated with honors and led a team for the final year capstone project developing a real-time collaborative code editor.',
-    courses: ['Data Structures & Algorithms', 'Object-Oriented Programming', 'Web Development', 'Database Systems', 'Software Engineering']
+    degree: 'B.E. Computer Science Engineering',
+    institution: 'Chandigarh University',
+    period: '2021 - 2025',
+    description: 'Specialization in Artificial Intelligence and Machine Learning with a CGPA of 8.00/10.0. The curriculum provided a strong foundation in computer science principles, with a focus on AI and machine learning concepts and their practical applications.',
+    courses: ['Data Structures', 'Algorithms', 'Artificial Intelligence', 'Machine Learning', 'Database Management']
   },
   {
-    degree: 'High School Diploma',
-    institution: 'City High School',
-    period: '2018 - 2020',
-    description: 'Focused on science and mathematics, laying a strong analytical foundation for future studies in technology.',
-    courses: ['Physics', 'Chemistry', 'Mathematics', 'Computer Science Basics']
+    degree: 'Intermediate (CBSE)',
+    institution: 'Bhavan Vidyalaya, Sec-15, Panchkula, Haryana',
+    period: '2019 - 2021',
+    description: 'Completed my intermediate education with a focus on science and mathematics, achieving a percentage of 81.4%. This provided a strong analytical and problem-solving foundation for my engineering studies.',
+    courses: ['Physics', 'Chemistry', 'Mathematics']
+  },
+  {
+    degree: 'Matriculation (CBSE)',
+    institution: 'New India High School, Pinjore, Haryana',
+    period: '2018 - 2019',
+    description: 'Completed my matriculation with a percentage of 92%, demonstrating a strong academic performance from an early stage.',
+    courses: ['Science', 'Mathematics', 'English']
   },
 ];
 

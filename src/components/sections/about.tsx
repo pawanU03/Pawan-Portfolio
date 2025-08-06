@@ -12,10 +12,10 @@ const AboutSection = () => {
           </h2>
           <div className="space-y-6 text-lg text-foreground/80 leading-relaxed">
             <p>
-              I'm a recent Computer Science graduate with a passion for building beautiful and functional web applications. I'm eager to apply my skills in modern web technologies to a real-world setting and contribute to exciting projects.
+              I am a Computer Science graduate with a strong foundation in data analysis and visualization. My expertise lies in utilizing tools like Excel, SQL, and Power BI to collect, clean, and analyze datasets, build insightful dashboards, and automate reporting.
             </p>
             <p>
-              My journey into web development started from a love of problem-solving and a desire to create things that people can interact with. I'm a quick learner, always excited to pick up new technologies, and I believe that the best digital products are born from a blend of technical excellence and user-centric design. I'm actively seeking opportunities to kick-start my career as a developer.
+              With a passion for uncovering data-driven insights, I am a dedicated and analytical problem-solver with excellent communication skills. I am eager to apply my technical abilities and enthusiasm for learning to a professional setting, where I can contribute to impactful projects and continue to grow as a data professional.
             </p>
           </div>
         </div>
